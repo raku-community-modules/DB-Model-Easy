@@ -1,18 +1,10 @@
 {
-  "name"        : "WWW::App::MVC",
+  "name"        : "DB::Model::Easy",
   "version"     : "*",
-  "description" : "MVC Framework for Web Apps in Perl 6.",
+  "description" : "Build database models in Perl 6, easily.",
   "depends"     : 
   [ 
-    "WWW::App",
-    "SCGI",
-    "FastCGI",
-    "HTTP::Easy",
-    "Template6", 
-    "Flower", 
-    "DB::Model::Easy", 
-    "DateTime::Utils", 
-    "JSON::Tiny" 
+    "DBIish",
   ],
-  "source-url"    : "git://github.com/supernovus/perl6-www-app-mvc.git"
+  "source-url"    : "git://github.com/supernovus/perl6-db-model-easy.git"
 }
