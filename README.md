@@ -36,8 +36,10 @@ A simple set of base classes for building easy database models.
 
 ## Notes
 
-This was originally a part of WWW::App::MVC, but I've split it off as its
-own library for those who may want to use it separately.
+This was originally a part of 
+[WWW::App::MVC](https://github.com/supernovus/perl6-www-app-mvc/), 
+but I've split it off as its own library for those who may want to use it 
+separately.
 
 ## TODO
 
