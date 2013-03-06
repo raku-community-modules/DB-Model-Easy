@@ -4,7 +4,7 @@
   "description" : "Build database models in Perl 6, easily.",
   "depends"     : 
   [ 
-    "DBIish",
+    "DBIish"
   ],
   "source-url"    : "git://github.com/supernovus/perl6-db-model-easy.git"
 }
