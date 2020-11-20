@@ -6,7 +6,7 @@ A simple set of base classes for building easy database models.
 
 ## Example Model Library
 
-```perl
+```raku
     use DB::Model::Easy;
     class MyModel::User is DB::Model::Easy::Row {
       has $.id;
@@ -37,7 +37,7 @@ A simple set of base classes for building easy database models.
 ## Notes
 
 This was originally a part of 
-[WWW::App::MVC](https://github.com/supernovus/perl6-www-app-mvc/), 
+[WWW::App::MVC](https://github.com/raku-community-modules/WWW-App-MVC/), 
 but I've split it off as its own library for those who may want to use it 
 separately.
 
@@ -47,7 +47,7 @@ separately.
 
 ## Author
 
-Timothy Totten. Catch me on #perl6 as 'supernovus'.
+Timothy Totten. Catch me on #raku as 'supernovus'.
 
 ## License
 
